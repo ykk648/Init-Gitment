@@ -7,7 +7,7 @@ import json
 
 site_url = 'https://ykksmile.top/'
 sitemap_url = 'https://ykksmile.top/sitemap.xml'
-token = 'token '+'21e572b2eb1247d3e575fadcec3fcc4b893154c1'
+token = 'token '+'********'
 username = 'cloisonne'
 repo_name = 'cloisonne.github.io'
 

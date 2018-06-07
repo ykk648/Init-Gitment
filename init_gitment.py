@@ -5,9 +5,9 @@ import requests
 import re
 import json
 
-site_url = 'http://ykksmile.top/'
-sitemap_url = 'http://ykksmile.top/sitemap.xml'
-token = 'token '+'*************'
+site_url = 'https://ykksmile.top/'
+sitemap_url = 'https://ykksmile.top/sitemap.xml'
+token = 'token '+'21e572b2eb1247d3e575fadcec3fcc4b893154c1'
 username = 'cloisonne'
 repo_name = 'cloisonne.github.io'
 
